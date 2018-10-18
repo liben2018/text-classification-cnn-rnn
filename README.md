@@ -33,6 +33,7 @@ CNN做句子分类的论文可以参看: [Convolutional Neural Networks for Sent
 ```
 
 这个子集可以在此下载：链接: https://pan.baidu.com/s/1hugrfRu 密码: qfud
+
 PS：以上baidupan下载文件放在./data/下即可直接训练！
 
 数据集划分如下：
